@@ -4,7 +4,7 @@ In this Application i use
 For BackEnd
 ------------------
 ```
-python,django, django-rest-framework.
+Python, Django, Django-rest-framework.
 ```
 For FrontEnd
 ------------------
